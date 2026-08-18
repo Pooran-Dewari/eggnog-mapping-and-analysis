@@ -12,5 +12,5 @@ wget http://eggnog5.embl.de/download/emapperdb-5.0.2/eggnog.taxa.tar.gz
 wget http://eggnog5.embl.de/download/emapperdb-5.0.2/eggnog_proteins.dmnd.gz
 
 gunzip *.gz
-tar -xf eggnog.taxa.tar.gz
+tar -xf eggnog.taxa.tar
 ```
